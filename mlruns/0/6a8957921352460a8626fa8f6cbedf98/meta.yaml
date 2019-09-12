@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alla/Documents/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/6a8957921352460a8626fa8f6cbedf98/artifacts
+end_time: 1568298621158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6a8957921352460a8626fa8f6cbedf98
+run_uuid: 6a8957921352460a8626fa8f6cbedf98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1568298621105
+status: 4
+tags: []
+user_id: alla
